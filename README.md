@@ -68,8 +68,7 @@ Blinkit, as a fast-delivery grocery platform, generates vast amounts of data dai
 
 ## 🔗 Let's Connect
 
-📫 aritrasadhukhan5557@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aritrasadhukhan)  
-💻 [GitHub](https://github.com/AritraSadhukhan)
-
+📫 debjotychandra@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/debjoty-chandra)  
+💻 [GitHub](https://github.com/Debjoty)
 ---
